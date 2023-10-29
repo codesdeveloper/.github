@@ -25,8 +25,8 @@ Estou sempre em busca de novos desafios, aprimoramentos e conhecimentos, por iss
 
 <br/>
 
-![Alt text](./whatsapp.svg)
-<img src="./whatsapp.svg">
+
+
 
 <br/> 
 
@@ -39,7 +39,9 @@ Estou sempre em busca de novos desafios, aprimoramentos e conhecimentos, por iss
 
 <h3 align='center' style='color:#7CFC00'><b>Redes de Contato</b></h3>
 <div style="display: inline_block" align='center'>
- [![links-logo](logo.png)](site)[](whatsapp)[.cls-1 { fill: #75cede; } .cls-2 { fill: #00a6bc; }](email) [](facebook)[](insta)[Youtube-color Created with Sketch.](youtube)[](tiktok)[](linkedin)
+
+
+ [<img src="./whatsapp.svg">](https://link-to-your-URL/)
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=leandros8&theme=gotham&hide_border=true&area=true)
 
