@@ -2,9 +2,9 @@
 <img width='100%' alt='codes' src='codes.jpg' />
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<h2 align='center' style='color:#00BFFF'><b>Olá sou Leandro Souza 🖐️</b></h2>
+<h2 style='color:#00BFFF'><b>Codes Developer</b></h2>
 
-<h3 align='center' style='color:#7CFC00'><b>Bem-vindo à minha página do GitHub, espero que goste dos meus projetos😀</b></h3>
+<h3 style='color:#7CFC00'><b>Bem-vindo à nossa organização, espero que goste dos meus projetos😀</b></h3>
 
 <br/>
 
