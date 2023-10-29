@@ -40,7 +40,7 @@ Estou sempre em busca de novos desafios, aprimoramentos e conhecimentos, por iss
 <h3 align='center' style='color:#7CFC00'><b>Redes de Contato</b></h3>
 <div style="display: inline_block" align='center'>
 
-[<img style="width:50px;heigth:50px" src="./logo.png">](codesdeveloper.com)
+[<img style="width:35px;heigth:35px" src="./logo.png">](codesdeveloper.com)
  [<img style="width:35px;heigth:35px" src="./whatsapp.svg">](api.whatsapp.com/send/?phone=5511944491600)
  [<img style="width:35px;heigth:35px" src="./email.svg">](mailto:contact@codesdeveloper.com)
  [<img style="width:35px;heigth:35px" src="./facebook.svg">](facebook.com/codesdeveloper.co)
