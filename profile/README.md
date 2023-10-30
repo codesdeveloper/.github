@@ -15,9 +15,8 @@
   [<img style="width:35px;heigth:35px" src="/profile/youtube.svg">](youtube.com/@codesdeveloper/)
   [<img style="width:35px;heigth:35px" src="/profile/tiktok.svg">](tiktok.com/@codesdeveloper)
   [<img style="width:35px;heigth:35px" src="/profile/linkedin.svg">](linkedin.com/company/codesdeveloper-co)
+  <br/>
 </div>
-
-<br/>
 
 
 
