@@ -1,33 +1,52 @@
+<!-- 
+# codesdeveloper-site
+Repositório do site da empresa
+-->
 
-<img width='100%' alt='capa' src='/profile/capa-grande.png' />
+
+
+<img width='100%' alt='capa' src='https://github.com/codesdeveloper/.github/raw/maincapa-grande.png' />
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <h2 style='color:#00BFFF'><b>Codes Developer</b></h2>
 
-<h3 style='color:#7CFC00'><b>Olá, seja bem-vindo à nossa organização, espero que goste dos nossos projetos😀</b></h3>
+<h3><b>Olá, seja bem-vindo à nossa organização, espero que goste dos nossos projetos😀</b></h3>
 
-<h3 style="text-align:center;">
- 
-  [<img style="width:35px;heigth:35px;margin:0 10px;" src="/profile/logo.png">](codesdeveloper.com)
- [<img style="width:35px;heigth:35px;margin:0 10px;" src="/profile/whatsapp.svg">](api.whatsapp.com/send/?phone=5511944491600)
- [<img style="width:35px;heigth:35px;margin:0 10px;" src="/profile/email.svg">](mailto:contact@codesdeveloper.com)
- [<img style="width:35px;heigth:35px;margin:0 10px;" src="/profile/facebook.svg">](facebook.com/codesdeveloper.co)
-  [<img style="width:35px;heigth:35px;margin:0 10px;" src="/profile/instagram.svg">](instagram.com/codesdeveloper)
-  [<img style="width:35px;heigth:35px;margin:0 10px;" src="/profile/youtube.svg">](youtube.com/@codesdeveloper/)
-  [<img style="width:35px;heigth:35px;margin:0 10px;" src="/profile/tiktok.svg">](tiktok.com/@codesdeveloper)
-  [<img style="width:35px;heigth:35px;margin:0 10px;" src="/profile/linkedin.svg">](linkedin.com/company/codesdeveloper-co)
+<div style="text-align:center;">
+    <a href="http://www.codesdeveloper.com">
+        <img style="width:35px;heigth:35px;margin:0 10px;" src="logo.png">
+    </a>
+    <a href="http://www.api.whatsapp.com/send/?phone=5511944491600">
+        <img style="width:35px;heigth:35px;margin:0 10px;" src="whatsapp.svg">
+    </a>
+    <a href="mailto:contact@codesdeveloper.com">
+        <img style="width:35px;heigth:35px;margin:0 10px;" src="email.svg">
+    </a>
+    <a href="http://www.facebook.com/codesdeveloper.co">
+        <img style="width:35px;heigth:35px;margin:0 10px;" src="facebook.svg">
+    </a>
+    <a href="http://www.instagram.com/codesdeveloper">
+        <img style="width:35px;heigth:35px;margin:0 10px;" src="instagram.svg">
+    </a>
+    <a href="http://www.youtube.com/@codesdeveloper/">
+        <img style="width:35px;heigth:35px;margin:0 10px;" src="youtube.svg">
+    </a>
+    <a href="http://www.tiktok.com/@codesdeveloper">
+        <img style="width:35px;heigth:35px;margin:0 10px;" src="tiktok.svg">
+    </a>
+    <a href="http://www.linkedin.com/company/codesdeveloper-co">
+        <img style="width:35px;heigth:35px;margin:0 10px;" src="linkedin.svg">
+    </a>
+</div>
 
-</h3>
-<h4 align='justify' style='color:#7CFC00'>
-  <b>Olá, sou Leandro Souza, desenvolvedor de software junior apaixonado e fascinado por tecnologia e programação.
+<br/>
 
+<p>
+  Olá, sou Leandro Souza, desenvolvedor de software junior apaixonado e fascinado por tecnologia e programação.
 Estou cursando a graduação em Análise e Desenvolvimento de Sistema no Centro Universitário Maurício de Nassau, onde vou me formar em dezembro de 2022. Por meio deste curso, eu adquirir conhecimento sobre: desenvolvimento pessoal, qualidade de software, sistemas computacionais, programação orientada a objetos, banco de dados, empreendedorismo, gestão de projetos, organização e arquitetura de computador, estrutura de dados, desenvolvimento web, desenvolvimento mobile, análise e modelagem de sistemas, rede de computadores, arquitetura e engenharia de software, computação em nuvem, metodologias ágeis, etc.
-
 Também estou cursando a graduação em Administração de Empresas na Universidade Norte do Paraná, onde vou me formar em dezembro de 2023. Por meio deste curso, eu adquiri conhecimento sobre: contabilidade, finanças, economia, comportamento organizacional, microeconomia, dentre outros.
-
 Estou sempre em busca de novos desafios, aprimoramentos e conhecimentos, por isso estou fazendo cursos extras e tenho conhecimento em inglês técnico. Gosto desta área de programação, pois podemos solucionar problemas usando códigos e café☕.</b>
-
-</h4 >
+</p>
 
 
 <br/>
