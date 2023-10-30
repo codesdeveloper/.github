@@ -17,10 +17,10 @@ Repositório do site da empresa
         <img style="width:35px;heigth:35px;margin:0 10px;" src="/profile/logo.png">
     </a>
     <a href="http://www.api.whatsapp.com/send/?phone=5511944491600">
-        <img style="width:35px;heigth:35px;margin:0 10px;" src="/profile/whatsapp.svg">
+        <img style="width:35px;heigth:35px;margin:10px;" src="/profile/whatsapp.svg">
     </a>
     <a href="mailto:contact@codesdeveloper.com">
-        <img style="width:35px;heigth:35px;margin:0 10px;" src="/profile/email.svg">
+        <img style="width:35px;heigth:35px;margin:0 10px 10px 0;" src="/profile/email.svg">
     </a>
     <a href="http://www.facebook.com/codesdeveloper.co">
         <img style="width:35px;heigth:35px;margin:0 10px;" src="/profile/facebook.svg">
