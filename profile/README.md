@@ -15,10 +15,6 @@
   [<img style="width:35px;heigth:35px" src="/profile/tiktok.svg">](tiktok.com/@codesdeveloper)
   [<img style="width:35px;heigth:35px" src="/profile/linkedin.svg">](linkedin.com/company/codesdeveloper-co)
 
-
-
-<br/>
-
 <h4 align='justify' style='color:#7CFC00'>
   <b>Olá, sou Leandro Souza, desenvolvedor de software junior apaixonado e fascinado por tecnologia e programação.
 
@@ -27,6 +23,7 @@ Estou cursando a graduação em Análise e Desenvolvimento de Sistema no Centro 
 Também estou cursando a graduação em Administração de Empresas na Universidade Norte do Paraná, onde vou me formar em dezembro de 2023. Por meio deste curso, eu adquiri conhecimento sobre: contabilidade, finanças, economia, comportamento organizacional, microeconomia, dentre outros.
 
 Estou sempre em busca de novos desafios, aprimoramentos e conhecimentos, por isso estou fazendo cursos extras e tenho conhecimento em inglês técnico. Gosto desta área de programação, pois podemos solucionar problemas usando códigos e café☕.</b>
+
 </h4 >
 
 
