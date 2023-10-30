@@ -7,18 +7,16 @@
 <h3 style='color:#7CFC00'><b>Olá, seja bem-vindo à nossa organização, espero que goste dos nossos projetos😀</b></h3>
 
 <p style="text-align:center;">
- <h1>Teste</h1>
-  
-  [<img style="width:35px;heigth:35px:margin: 0 10px;" src="/profile/logo.png">](codesdeveloper.com)
- [<img style="width:35px;heigth:35px:margin: 0 10px;" src="/profile/whatsapp.svg">](api.whatsapp.com/send/?phone=5511944491600)
- [<img style="width:35px;heigth:35px:margin: 0 10px;" src="/profile/email.svg">](mailto:contact@codesdeveloper.com)
- [<img style="width:35px;heigth:35px:margin: 0 10px;" src="/profile/facebook.svg">](facebook.com/codesdeveloper.co)
-  [<img style="width:35px;heigth:35px:margin: 0 10px;" src="/profile/instagram.svg">](instagram.com/codesdeveloper)
-  [<img style="width:35px;heigth:35px:margin: 0 10px;" src="/profile/youtube.svg">](youtube.com/@codesdeveloper/)
-  [<img style="width:35px;heigth:35px:margin: 0 10px;" src="/profile/tiktok.svg">](tiktok.com/@codesdeveloper)
-  [<img style="width:35px;heigth:35px:margin: 0 10px;" src="/profile/linkedin.svg">](linkedin.com/company/codesdeveloper-co)
+ 
+  [<img style="width:35px;heigth:35px;margin: 0 10px;" src="/profile/logo.png">](codesdeveloper.com)
+ [<img style="width:35px;heigth:35px;margin: 0 10px;" src="/profile/whatsapp.svg">](api.whatsapp.com/send/?phone=5511944491600)
+ [<img style="width:35px;heigth:35px;margin: 0 10px;" src="/profile/email.svg">](mailto:contact@codesdeveloper.com)
+ [<img style="width:35px;heigth:35px;margin: 0 10px;" src="/profile/facebook.svg">](facebook.com/codesdeveloper.co)
+  [<img style="width:35px;heigth:35px;margin: 0 10px;" src="/profile/instagram.svg">](instagram.com/codesdeveloper)
+  [<img style="width:35px;heigth:35px;margin: 0 10px;" src="/profile/youtube.svg">](youtube.com/@codesdeveloper/)
+  [<img style="width:35px;heigth:35px;margin: 0 10px;" src="/profile/tiktok.svg">](tiktok.com/@codesdeveloper)
+  [<img style="width:35px;heigth:35px;margin: 0 10px;" src="/profile/linkedin.svg">](linkedin.com/company/codesdeveloper-co)
 
-  <h1>Teste</h1>
 </p>
 <h4 align='justify' style='color:#7CFC00'>
   <b>Olá, sou Leandro Souza, desenvolvedor de software junior apaixonado e fascinado por tecnologia e programação.
