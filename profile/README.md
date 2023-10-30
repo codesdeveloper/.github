@@ -6,7 +6,7 @@
 
 <h3 style='color:#7CFC00'><b>Olá, seja bem-vindo à nossa organização, espero que goste dos nossos projetos😀</b></h3>
 
-
+<div>
   [<img style="width:35px;heigth:35px" src="/profile/logo.png">](codesdeveloper.com)
  [<img style="width:35px;heigth:35px" src="/profile/whatsapp.svg">](api.whatsapp.com/send/?phone=5511944491600)
  [<img style="width:35px;heigth:35px" src="/profile/email.svg">](mailto:contact@codesdeveloper.com)
@@ -15,7 +15,7 @@
   [<img style="width:35px;heigth:35px" src="/profile/youtube.svg">](youtube.com/@codesdeveloper/)
   [<img style="width:35px;heigth:35px" src="/profile/tiktok.svg">](tiktok.com/@codesdeveloper)
   [<img style="width:35px;heigth:35px" src="/profile/linkedin.svg">](linkedin.com/company/codesdeveloper-co)
-
+</div>
 
 <br/>
 
