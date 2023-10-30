@@ -1,5 +1,5 @@
 
-<img width='100%' alt='capa' src='capa-grande.png' />
+<img width='100%' alt='capa' src='/profile/capa-grande.png' />
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <h2 style='color:#00BFFF'><b>Codes Developer</b></h2>
