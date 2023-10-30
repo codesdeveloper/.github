@@ -12,7 +12,7 @@ Repositório do site da empresa
 
 <h3><b>Olá, seja bem-vindo à nossa organização, espero que goste dos nossos projetos😀</b></h3>
 
-<div align='justify'>
+<div align='center'>
     <a href="http://www.codesdeveloper.com">
         <img style="width:35px;heigth:35px;margin:0 10px;" src="/profile/logo.png">
     </a>
