@@ -4,7 +4,7 @@
 <h2>Codes Developer</h2>
 <h5>Creating the future👨‍💻</h5>
 <hr/>
-<h3><b>Olá, seja bem-vindo à nossa organização, espero que goste dos nossos projetos😀</b></h3>
+<h3 align='center'><b>Olá, seja bem-vindo à nossa organização, espero que goste dos nossos projetos😀</b></h3>
 
 <div align="center">
   <a target="_blank" href="http://www.codesdeveloper.com"><img style="width:35px;heigth:35px;" src="/profile/logo.png"></a>
