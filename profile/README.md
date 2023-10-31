@@ -19,10 +19,9 @@
 <br/>
 
 <p>
-  Olá, sou Leandro Souza, desenvolvedor de software junior apaixonado e fascinado por tecnologia e programação.
-Estou cursando a graduação em Análise e Desenvolvimento de Sistema no Centro Universitário Maurício de Nassau, onde vou me formar em dezembro de 2022. Por meio deste curso, eu adquirir conhecimento sobre: desenvolvimento pessoal, qualidade de software, sistemas computacionais, programação orientada a objetos, banco de dados, empreendedorismo, gestão de projetos, organização e arquitetura de computador, estrutura de dados, desenvolvimento web, desenvolvimento mobile, análise e modelagem de sistemas, rede de computadores, arquitetura e engenharia de software, computação em nuvem, metodologias ágeis, etc.
-Também estou cursando a graduação em Administração de Empresas na Universidade Norte do Paraná, onde vou me formar em dezembro de 2023. Por meio deste curso, eu adquiri conhecimento sobre: contabilidade, finanças, economia, comportamento organizacional, microeconomia, dentre outros.
-Estou sempre em busca de novos desafios, aprimoramentos e conhecimentos, por isso estou fazendo cursos extras e tenho conhecimento em inglês técnico. Gosto desta área de programação, pois podemos solucionar problemas usando códigos e café☕.</b>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum tempus lacus id blandit. Praesent pulvinar sagittis arcu, sit amet bibendum dolor sodales eu. Suspendisse varius porttitor nisi, vel imperdiet dui maximus id. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin maximus risus eget leo porta porta. Suspendisse elementum venenatis semper. Praesent fermentum fringilla lacus. Suspendisse ultricies tellus non lacus eleifend, et pulvinar felis venenatis. Suspendisse enim turpis, sagittis a magna ac, pharetra blandit libero. Vestibulum pharetra felis velit, quis pharetra justo condimentum blandit. Proin ut euismod felis.
+
+Donec id nisl sem. Donec vel elit eget elit lacinia lobortis. Proin ullamcorper volutpat quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non quam in velit fermentum sodales. Cras eget nibh vitae felis molestie suscipit quis non risus. Suspendisse hendrerit neque lectus, at efficitur massa tempor luctus. Integer a eleifend eros. Curabitur sed viverra ex. Praesent pharetra purus arcu, eu efficitur ipsum fermentum vitae. Proin nec tellus consequat, tincidunt erat nec, dignissim metus. Nullam eu tempus libero. Quisque sed laoreet velit. Suspendisse nisl neque nam.
 </p>
 
 
