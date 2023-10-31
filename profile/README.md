@@ -13,7 +13,7 @@
   <a target="_blank" href="http://www.instagram.com/codesdeveloper"><img a style="width:35px;heigth:35px;" src="/profile/instagram.svg"></a>
   <a target="_blank" href="http://www.youtube.com/@codesdeveloper/"><img style="width:35px;heigth:35px;" src="/profile/youtube.svg"></a>
   <a target="_blank" href="http://www.tiktok.com/@codesdeveloper"><img style="width:35px;heigth:35px;" src="/profile/tiktok.svg"></a>
-  <a target="_blank" href="http://www.linkedin.com/company/codesdeveloper-co"><img style="width:35px;heigth:35px;" src="/profile/linkedin.svg"></a>    
+  <a href="http://www.linkedin.com/company/codesdeveloper-co" target="_blank"><img style="width:35px;heigth:35px;" src="/profile/linkedin.svg"></a>    
 </div>
 <br/>
 
