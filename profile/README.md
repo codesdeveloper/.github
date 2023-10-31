@@ -6,14 +6,14 @@
 <h3><b>Olá, seja bem-vindo à nossa organização, espero que goste dos nossos projetos😀</b></h3>
 
 <div align="center">
-  <a target="_black" href="http://www.codesdeveloper.com"><img style="width:35px;heigth:35px;" src="/profile/logo.png"></a>
-  <a target="_black" href="http://www.api.whatsapp.com/send/?phone=5511944491600"><img style="width:35px;heigth:35px;margin:10px;" src="/profile/whatsapp.svg"></a>
-  <a target="_black" href="mailto:contact@codesdeveloper.com"><img style="width:35px;heigth:35px;margin:0 10px 10px 0;" src="/profile/email.svg"></a>
-  <a target="_black" href="http://www.facebook.com/codesdeveloper.co"><img style="width:35px;heigth:35px;" src="/profile/facebook.svg"></a>
-  <a target="_black" href="http://www.instagram.com/codesdeveloper"><img a style="width:35px;heigth:35px;" src="/profile/instagram.svg"></a>
-  <a target="_black" href="http://www.youtube.com/@codesdeveloper/"><img style="width:35px;heigth:35px;" src="/profile/youtube.svg"></a>
-  <a target="_black" href="http://www.tiktok.com/@codesdeveloper"><img style="width:35px;heigth:35px;" src="/profile/tiktok.svg"></a>
-  <a target="_black" href="http://www.linkedin.com/company/codesdeveloper-co"><img style="width:35px;heigth:35px;" src="/profile/linkedin.svg"></a>    
+  <a target="_blank" href="http://www.codesdeveloper.com"><img style="width:35px;heigth:35px;" src="/profile/logo.png"></a>
+  <a target="_blank" href="http://www.api.whatsapp.com/send/?phone=5511944491600"><img style="width:35px;heigth:35px;margin:10px;" src="/profile/whatsapp.svg"></a>
+  <a target="_blank" href="mailto:contact@codesdeveloper.com"><img style="width:35px;heigth:35px;margin:0 10px 10px 0;" src="/profile/email.svg"></a>
+  <a target="_blank" href="http://www.facebook.com/codesdeveloper.co"><img style="width:35px;heigth:35px;" src="/profile/facebook.svg"></a>
+  <a target="_blank" href="http://www.instagram.com/codesdeveloper"><img a style="width:35px;heigth:35px;" src="/profile/instagram.svg"></a>
+  <a target="_blank" href="http://www.youtube.com/@codesdeveloper/"><img style="width:35px;heigth:35px;" src="/profile/youtube.svg"></a>
+  <a target="_blank" href="http://www.tiktok.com/@codesdeveloper"><img style="width:35px;heigth:35px;" src="/profile/tiktok.svg"></a>
+  <a target="_blank" href="http://www.linkedin.com/company/codesdeveloper-co"><img style="width:35px;heigth:35px;" src="/profile/linkedin.svg"></a>    
 </div>
 <br/>
 
