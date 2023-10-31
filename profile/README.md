@@ -7,7 +7,7 @@
 
 <div align="center">
   <a target="_blank" href="http://www.codesdeveloper.com"><img style="width:35px;heigth:35px;" src="/profile/logo.png"></a>
-  <a target="_blank" href="http://www.api.whatsapp.com/send/?phone=5511944491600"><img style="width:35px;heigth:35px;margin:10px;" src="/profile/whatsapp.svg"></a>
+  <a target="_blank" href="https://wa.me/5511944491600"><img style="width:35px;heigth:35px;margin:10px;" src="/profile/whatsapp.svg"></a>
   <a target="_blank" href="mailto:contact@codesdeveloper.com"><img style="width:35px;heigth:35px;margin:0 10px 10px 0;" src="/profile/email.svg"></a>
   <a target="_blank" href="http://www.facebook.com/codesdeveloper.co"><img style="width:35px;heigth:35px;" src="/profile/facebook.svg"></a>
   <a target="_blank" href="http://www.instagram.com/codesdeveloper"><img a style="width:35px;heigth:35px;" src="/profile/instagram.svg"></a>
