@@ -15,7 +15,6 @@
   <a target="_black" href="http://www.tiktok.com/@codesdeveloper"><img style="width:35px;heigth:35px;" src="/profile/tiktok.svg"></a>
   <a target="_black" href="http://www.linkedin.com/company/codesdeveloper-co"><img style="width:35px;heigth:35px;" src="/profile/linkedin.svg"></a>    
 </div>
-
 <br/>
 
 <p>
@@ -25,8 +24,8 @@ Donec id nisl sem. Donec vel elit eget elit lacinia lobortis. Proin ullamcorper 
 </p>
 
 <div align="center">  
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" /></a> 
-  <a href="https://github.com/anuraghazra/convoychat"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" /></a>   
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" /></a> 
+  <a href="https://github.com/anuraghazra/convoychat"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" /></a>   
   <!--
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" /></a>
   <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" /></a>
@@ -34,10 +33,8 @@ Donec id nisl sem. Donec vel elit eget elit lacinia lobortis. Proin ullamcorper 
 </div>
 
 <br/> 
-
 <br/>
 
-<h3 align='center' style='color:#7CFC00'><b>Redes de Contato</b></h3>
 <div style="display: inline_block" align='center'>
 
 
