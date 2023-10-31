@@ -1,4 +1,4 @@
-<img width='100%' alt='capa' src='https://github.com/codesdeveloper/.github/raw/main/profile/capa-grande.png' />
+<img width='100%' alt='capa' src='/profile/capa-grande.png' />
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <h2 style='color:#00BFFF'><b>Codes Developer</b></h2>
@@ -25,8 +25,8 @@ Donec id nisl sem. Donec vel elit eget elit lacinia lobortis. Proin ullamcorper 
 <br/>
 
 <div align="center">  
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=shadow_blue" /></a> 
-  <a href="https://github.com/anuraghazra/convoychat"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=20&card_width=320&theme=github_dark_dimmed" /></a>   
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" /></a> 
+  <a href="https://github.com/anuraghazra/convoychat"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=transparent" /></a>   
   <!--
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" /></a>
   <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" /></a>
