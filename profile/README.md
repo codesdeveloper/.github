@@ -1,8 +1,9 @@
 <img width='100%' alt='capa' src='/profile/capa-grande.png' />
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<h2 style='color:#00BFFF'><b>Codes Developer</b></h2>
-
+<h2>Codes Developer</h2>
+<h5>Creating the future👨‍💻</h5>
+<hr/>
 <h3><b>Olá, seja bem-vindo à nossa organização, espero que goste dos nossos projetos😀</b></h3>
 
 <div align="center">
