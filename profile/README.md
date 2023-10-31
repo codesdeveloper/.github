@@ -22,27 +22,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum tempus 
 
 Donec id nisl sem. Donec vel elit eget elit lacinia lobortis. Proin ullamcorper volutpat quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non quam in velit fermentum sodales. Cras eget nibh vitae felis molestie suscipit quis non risus. Suspendisse hendrerit neque lectus, at efficitur massa tempor luctus. Integer a eleifend eros. Curabitur sed viverra ex. Praesent pharetra purus arcu, eu efficitur ipsum fermentum vitae. Proin nec tellus consequat, tincidunt erat nec, dignissim metus. Nullam eu tempus libero. Quisque sed laoreet velit. Suspendisse nisl neque nam.
 </p>
-<br/>
-
-<div align="center">  
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats-liard-delta.vercel.app/api?username=codesdeveloper&show_icons=true&theme=transparent" /></a> 
-  <a href="https://github.com/anuraghazra/convoychat"><img align="top" src="https://github-readme-stats-liard-delta.vercel.app/api/top-langs?username=codesdeveloper&layout=compact&langs_count=8&card_width=320&theme=transparent" /></a>   
-  <!--
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" /></a>
-  <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" /></a>
-  --->
-</div>
-
-<br/> 
-<br/>
 
 <div style="display: inline_block" align='center'>
-
-
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=leandros8&theme=gotham&hide_border=true&area=true)
-
- <h3 align='center' style='color:#7CFC00'>Minhas Habilidades</h3>
  <div style="display: inline_block" align='center'>
   <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
