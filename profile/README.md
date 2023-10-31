@@ -25,8 +25,8 @@ Donec id nisl sem. Donec vel elit eget elit lacinia lobortis. Proin ullamcorper 
 <br/>
 
 <div align="center">  
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" /></a> 
-  <a href="https://github.com/anuraghazra/convoychat"><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=transparent" /></a>   
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="top" src="https://github-readme-stats-liard-delta.vercel.app/api?username=codesdeveloper&show_icons=true&theme=transparent" /></a> 
+  <a href="https://github.com/anuraghazra/convoychat"><img align="top" src="https://github-readme-stats-liard-delta.vercel.app/api/top-langs?username=codesdeveloper&layout=compact&langs_count=8&card_width=320&theme=transparent" /></a>   
   <!--
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" /></a>
   <a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" /></a>
