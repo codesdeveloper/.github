@@ -18,11 +18,7 @@
 </div>
 <br/>
 
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam fermentum tempus lacus id blandit. Praesent pulvinar sagittis arcu, sit amet bibendum dolor sodales eu. Suspendisse varius porttitor nisi, vel imperdiet dui maximus id. Interdum et malesuada fames ac ante ipsum primis in faucibus. Proin maximus risus eget leo porta porta. Suspendisse elementum venenatis semper. Praesent fermentum fringilla lacus. Suspendisse ultricies tellus non lacus eleifend, et pulvinar felis venenatis. Suspendisse enim turpis, sagittis a magna ac, pharetra blandit libero. Vestibulum pharetra felis velit, quis pharetra justo condimentum blandit. Proin ut euismod felis.
-
-Donec id nisl sem. Donec vel elit eget elit lacinia lobortis. Proin ullamcorper volutpat quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non quam in velit fermentum sodales. Cras eget nibh vitae felis molestie suscipit quis non risus. Suspendisse hendrerit neque lectus, at efficitur massa tempor luctus. Integer a eleifend eros. Curabitur sed viverra ex. Praesent pharetra purus arcu, eu efficitur ipsum fermentum vitae. Proin nec tellus consequat, tincidunt erat nec, dignissim metus. Nullam eu tempus libero. Quisque sed laoreet velit. Suspendisse nisl neque nam.
-</p>
+<p>Olá,somos uma empresa de software e tecnologia especializada em suporte, análise e desenvolvimento de projetos digitais, como sites, aplicativos, e-commerces, plataformas, hotsites, sistemas, banco de dados, full stack, etc. Inaugurada dia 16 de outubro de 2023 com a intenção de desenvolver soluções inovadoras e criativas para pessoas e empresas com muito profissionalismo, ética, eficiência e qualidade.</p>
 <br/
 
 <div style="display: inline_block" align='center'>
