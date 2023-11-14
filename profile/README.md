@@ -18,7 +18,7 @@
 </div>
 <br/>
 
-<p>Olá,somos uma empresa de software e tecnologia especializada em suporte, análise e desenvolvimento de projetos digitais, como sites, aplicativos, e-commerces, plataformas, hotsites, sistemas, banco de dados, full stack, etc. Inaugurada dia 16 de outubro de 2023 com a intenção de desenvolver soluções inovadoras e criativas para pessoas e empresas com muito profissionalismo, ética, eficiência e qualidade.</p>
+<p>Olá, somos uma empresa de software e tecnologia especializada em suporte, análise e desenvolvimento de projetos digitais, como sites, aplicativos, e-commerces, plataformas, hotsites, sistemas, banco de dados, full stack, etc. Inaugurada dia 16 de outubro de 2023 com a intenção de desenvolver soluções inovadoras e criativas para pessoas e empresas com muito profissionalismo, ética, eficiência e qualidade.</p>
 <br/
 
 <div style="display: inline_block" align='center'>
